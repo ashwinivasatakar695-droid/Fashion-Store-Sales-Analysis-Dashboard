@@ -1,5 +1,13 @@
 # Fashion Store Sales Analysis Dashboard
 
+> 📊 An interactive sales analysis dashboard built using Microsoft Excel to analyze sales trends, customer demographics, order status, state-wise performance, and sales channels.
+
+### 🛠️ Tech Stack
+
+`Microsoft Excel` `Pivot Tables` `Pivot Charts` `Slicers` `Data Analysis` `Data Visualization`
+
+---
+
 ## 📊 Project Overview
 
 This project analyzes fashion store sales data and presents the findings through an interactive dashboard created using Microsoft Excel.
